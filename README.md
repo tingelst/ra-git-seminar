@@ -1,2 +1,6 @@
 # ra-git-seminar
-RA GIt Seminar
+RA Git Seminar
+
+HEllo from vim
+
+Hello from NANO
